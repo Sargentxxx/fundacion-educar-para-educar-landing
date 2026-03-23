@@ -1,0 +1,74 @@
+[
+  {
+    "id": "910b2c12-d48a-4a99-b40c-944f60a132e7",
+    "title": "Paginas Web",
+    "source_count": 5,
+    "updated_at": "2026-03-23T00:21:15Z"
+  },
+  {
+    "id": "613d83c8-2575-4731-befd-ce550c3b3a86",
+    "title": "Master Truck",
+    "source_count": 27,
+    "updated_at": "2026-03-18T00:58:42Z"
+  },
+  {
+    "id": "5d2101a5-0c5a-4c64-a015-2acf06b86d89",
+    "title": "Palos Santos Empanadas ",
+    "source_count": 24,
+    "updated_at": "2026-03-04T23:25:22Z"
+  },
+  {
+    "id": "a4dcdcce-2f07-44f7-b941-74901c04df18",
+    "title": "Personas de Confianza",
+    "source_count": 26,
+    "updated_at": "2026-02-17T02:42:38Z"
+  },
+  {
+    "id": "e5ab87fb-67fa-434e-9dc3-0e595a41cb6c",
+    "title": "LabManager",
+    "source_count": 1,
+    "updated_at": "2026-01-30T00:42:21Z"
+  },
+  {
+    "id": "a8fbf8be-e22b-410c-9a53-312380f30007",
+    "title": "Actividad Integradora - Práctica Profesionalizante I",
+    "source_count": 3,
+    "updated_at": "2025-12-21T23:59:04Z"
+  },
+  {
+    "id": "6e020714-0023-4d73-b54a-5c4aa6b6f7b4",
+    "title": "Guía para Análisis y Procesamiento de Datos",
+    "source_count": 1,
+    "updated_at": "2025-11-18T22:26:13Z"
+  },
+  {
+    "id": "9ab98918-7bdb-4ed7-9cb4-9f95562724bd",
+    "title": "Programacion Orientada a Objetos ",
+    "source_count": 3,
+    "updated_at": "2025-11-18T22:26:09Z"
+  },
+  {
+    "id": "98be4a04-2a1b-4072-a31f-7a23f729e2b5",
+    "title": "Mathematical Analysis of Residential Electric Consumption",
+    "source_count": 4,
+    "updated_at": "2025-11-18T22:25:55Z"
+  },
+  {
+    "id": "aef7c9c0-bc2f-4c68-bc74-8834b7e09ffd",
+    "title": "practica parcial Ciencia Datos",
+    "source_count": 1,
+    "updated_at": "2025-11-17T23:36:40Z"
+  },
+  {
+    "id": "fb6f7c2f-3e2c-405e-9af9-26a597bfb4da",
+    "title": "Data Science Professional Practice I Syllabus",
+    "source_count": 3,
+    "updated_at": "2025-11-12T22:48:07Z"
+  },
+  {
+    "id": "e4ddc6f8-ada2-4aaa-b9dc-c3ff7c325bf8",
+    "title": "Earnings Reports For Top 50 Corporations",
+    "source_count": 267,
+    "updated_at": "2025-10-29T13:41:58Z"
+  }
+]
