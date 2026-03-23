@@ -7,12 +7,14 @@
   <title>Fundación Educar Para Educar – Inscripciones 2026</title>
   <meta name="description" content="Formación profesional con aval universitario en Santiago del Estero. Cursos 2026: Acompañante Terapéutico, Estimulación Temprana, Preceptor y Secretariado Médico." />
   <link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="mobile.css" media="(max-width: 768px)" />
   <!-- SEO Favicon (use logo as fallback) -->
   <link rel="icon" type="image/jpg" href="logo.jpg">
 </head>
 <body>
   <header>
     <nav class="container">
+        <button class="nav-toggle" aria-label="Abrir menú"><span></span><span></span><span></span></button>
       <div class="nav-brand">
         <img src="logo.jpg" alt="Logo Fundación" class="nav-logo" />
         <div class="brand-text">
@@ -253,6 +255,15 @@
         items[1].classList.add('active-loc');
       }
     }
+  </script>
+  <script>
+    // Mobile menu toggle
+    const toggle = document.querySelector('.nav-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    toggle.addEventListener('click', () => {
+      navLinks.classList.toggle('open');
+      toggle.classList.toggle('open');
+    });
   </script>
 </body>
 </html>
